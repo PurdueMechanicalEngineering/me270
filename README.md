@@ -10,6 +10,8 @@ The examples are developed using [Jupyter](http://jupyter.org) notebooks written
 
 + [Defining a Python function that calculates cross products](./cross_products_and_python_functions.ipynb).
 
++ [Making Plots](./making_simple_plots.ipynb).
+
 ## Installation of Required Software for Viewing the Notebookes
 
 Find and download the right version of 
